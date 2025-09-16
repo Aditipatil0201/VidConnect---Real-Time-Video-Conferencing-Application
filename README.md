@@ -1,7 +1,7 @@
-Overview :
+#Overview :
 VidConnect is a real-time video conferencing application designed to make online meetings simple, fast, and secure. With features like live video/audio, instant messaging, and room-based management, VidConnect is perfect for remote teams, online classes, and virtual meetups.
 
-🔧 Features
+#Features:
 Real-Time Video & Audio using WebRTC
 Instant Chat Messaging inside rooms
 Room Creation & Management with unique links
@@ -10,19 +10,19 @@ Responsive UI for desktop and mobile
 Secure Room IDs for safe communication
 
 
-🛠 Tech Stack
+#Tech Stack:
 Frontend: React.js, CSS
 Backend: Node.js, Express
 Real-Time Communication: WebRTC, Socket.IO
 
-Usage:
+#Usage:
 Create or join a room with a unique ID
 Allow camera and microphone access
 Chat, mute/unmute, or turn video on/off
 Share the room link with others to collaborate
 
 
-🚀 Future Enhancements:
+#Future Enhancements:
 
 Authentication system for private rooms
 Screen sharing
