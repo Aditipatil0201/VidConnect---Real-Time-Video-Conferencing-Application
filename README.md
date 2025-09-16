@@ -22,8 +22,8 @@ Chat, mute/unmute, or turn video on/off
 Share the room link with others to collaborate
 
 
+🚀 Future Enhancements:
 
-🚀 Future Enhancements
 Authentication system for private rooms
 Screen sharing
 Session recording
@@ -31,7 +31,3 @@ Improved encryption for secure communication
 
 
 
-
-🎥 Session recording
-
-📡 Improved encryption for secure communication
